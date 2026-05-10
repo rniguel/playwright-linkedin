@@ -1,12 +1,13 @@
 {
   "name": "playwright-linkedin",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Automação de conexões no LinkedIn usando Playwright",
+  "main": "linkedin.js",
   "scripts": {
+    "start": "node linkedin.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["linkedin", "playwright", "automation"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
